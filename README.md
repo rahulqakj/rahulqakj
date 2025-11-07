@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/e1/8d/36/e18d36ba1da53d6ce760b7a963bd3ca9.gif" alt="Anime Girl with Laptop"/>
 
-> *"I don't just test systems — I architect intelligence into quality."*  
+> *"I don't just test systems, I architect intelligence into quality."*  
 > — **RAHUL.py**, Autonomous QA Entity Unit-09
 
 📍 **Location:** Jakarta ↔ Pekanbaru, Indonesia  

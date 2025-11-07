@@ -142,6 +142,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Anime Matrix"/>
 </div>
-
----
-<img align="right" width="300" src="https://i.pinimg.com/originals/b2/5e/0c/b25e0c6d3f8f7d5c2e3a4f5b6c7d8e9f.gif" alt="Anime Girl Studying"/>
